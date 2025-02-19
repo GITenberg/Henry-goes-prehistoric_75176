@@ -1,0 +1,64 @@
+_repo: Henry-goes-prehistoric_75176
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kuhlhoff
+    aliases:
+    - Kuhlhoff, E. H. (Elbert Herman)
+    - Kuhlhoff, Pete
+    birthdate: 1903
+    deathdate: 1972
+    gutenberg_agent_id: '57868'
+    url: http://www.gutenberg.org/2009/agents/57868
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: 'Reading ease score: 85.6 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Humour'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75176'
+language: en
+pgterms:marc904: https://archive.org/details/short-stories-v-203-n-02-1948-01-25/page/n3
+pgterms:marc905: 20250117175534tuttle
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bShort Stories, Inc., $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the January 25, 1948 issue of Short Stories.
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Sheriffs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+summary: '"Henry Goes Prehistoric" by W. C. Tuttle is a humorous novel written in
+  the mid-20th century. The story unfolds in Wild Horse Valley and follows the escapades
+  of Henry Harrison Conroy, an unlikely sheriff, as he navigates the challenges of
+  crime, intrigue, and unexpected adventures amidst the rugged backdrop of Arizona
+  during the gold rush era.  The narrative centers around Sheriff Henry Conroy, his
+  deputy Judge Van Treece, and their inept yet endearing sidekick, the simple-minded
+  Oscar Johnson. When a local prospector, Old Ben Todd, is found murdered, Henry and
+  his eccentric crew dive into the mystery. The plot thickens with elements of rivalry,
+  corruption, and a comedic twist as they uncover a band of high-graders led by the
+  enigmatic Peter Gonyer. With a mix of whimsical characters and humorous situations,
+  including a series of misadventures involving a new buckboard and various mishaps
+  in Lobo Canyon, Tuttle weaves a tale that critiques the absurdity of frontier life
+  while delivering suspense and laughs. Ultimately, the story addresses themes of
+  friendship, ambition, and the humorous side of facing one’s fears in a chaotic world.
+  (This is an automatically generated summary.)'
+title: Henry goes prehistoric
+url: http://www.gutenberg.org/ebooks/75176
